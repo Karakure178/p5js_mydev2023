@@ -19,7 +19,7 @@ npm install
 
 ## npm scripts
 
-- `npm start` - 開発用のポートが開きます [5123](http://localhost:5123/)
+- `npm start` - 開発用のポートが開きます [5173](http://localhost:5123/)
 - `npm run build` - `dist` フォルダへ個々のフォルダごとにビルドします。
 
 ## 作品制作の始め方
@@ -32,9 +32,9 @@ npm start
 
 初期時点ではサンプルとして以下のフォルダにアクセスすることができます。
 
-http://localhost:5123/p5_test/
+http://localhost:5173/p5_test/
 
-http://localhost:5123/p5_test2/
+http://localhost:5173/p5_test2/
 
 
 p5_testフォルダをそのまま`src`フォルダ以下にコピー＆ペーストしてフォルダ名を変えるとそのフォルダ名をリンクとしてアクセスできるようになります。
