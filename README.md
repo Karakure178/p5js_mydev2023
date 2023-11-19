@@ -19,7 +19,7 @@ npm install
 
 ## npm scripts
 
-- `npm start` - 開発用のポートが開きます [5173](http://localhost:5123/)
+- `npm start` - 開発用のポートが開きます [5173](http://localhost:5173/)
 - `npm run build` - `dist` フォルダへ個々のフォルダごとにビルドします。
 
 ## 作品制作の始め方
