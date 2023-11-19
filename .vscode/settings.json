@@ -1,0 +1,22 @@
+{
+  "files.eol": "\n",
+  "workbench.editor.enablePreview": false,
+  "editor.formatOnSave": false,
+  "files.associations": {
+      ".stylelintrc": "json",
+      ".eslintrc": "json",
+      ".postcssrc.js": "javascript",
+  },
+  "html.format.endWithNewline": true,
+  "html.format.extraLiners": "",
+  "html.format.maxPreserveNewLines": 2,
+  "html.format.wrapLineLength": 0,
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "stylelint.validate": ["css"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true,
+    "source.fixAll.eslint": true
+  }
+}
