@@ -22,8 +22,7 @@
     "vite-plugin-live-reload": "^3.0.2"
   },
   "dependencies": {
-    "p5": "^1.8.0",
-    "p5js-wrapper": "^1.2.3"
+    "p5": "^1.8.0"
   },
   "browserslist": [
     "last 3 versions",
