@@ -1,8 +1,8 @@
-# P5.js サクッと開発環境テンプレート(2023年度版)
+# P5.js 開発環境テンプレート(2023年度版)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-モジュールバンドルである[Vite](https://vitejs.dev/)を使ってサクッと [p5.js](https://p5js.org) を使った作品が作れるようになるテンプレートです。複数の作品を一括管理できるのが本環境の特徴です。
+モジュールバンドルである[Vite](https://vitejs.dev/)を使って [p5.js](https://p5js.org) を使った作品が作れるようになるテンプレートです。複数の作品を一括管理できるのが本環境の特徴です。
 
 npm installで他のライブラリを使用した作品も作れます。
 
@@ -11,7 +11,7 @@ npm installで他のライブラリを使用した作品も作れます。
 以下コマンドを打つことで環境が構築できます。まだgit、nodejsを入れていない場合は先に入れてから実行してください。
 
 ```sh
-git clone git@github.com:Karakure178/p5js_mydev2023.git
+git clone https://github.com/Karakure178/p5js_mydev2023.git
 
 cd p5js_mydev2023
 npm install
@@ -32,9 +32,9 @@ npm start
 
 初期時点ではサンプルとして以下のフォルダにアクセスすることができます。
 
-http://localhost:5173/p5_test/
+http://localhost:5173/p5test/
 
-http://localhost:5173/p5_test2/
+http://localhost:5173/p5test2/
 
 
 p5_testフォルダをそのまま`src`フォルダ以下にコピー＆ペーストしてフォルダ名を変えるとそのフォルダ名をリンクとしてアクセスできるようになります。
